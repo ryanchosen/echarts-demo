@@ -1,0 +1,17 @@
+{
+  "name": "echarts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "dependencies": {
+    "echarts": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/echarts": "^4.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
