@@ -11,3 +11,7 @@
     - 获取页面宽度，
     - 设置容器宽度 ，高度随意
     - 利用官方提供的类似媒体查询的`baseOption` + `media`
+8. 在Vue中使用Echarts/ 封装一个Vue-Echarts组件
+# 本地运行方式
+1. 原生js版本 echarts `parcel src/index.html`
+2. Vue版本 echarts `parcel src/Vue-Echarts/vue.index.html`
